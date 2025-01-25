@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# [NOTE HUB] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:TECH TITANS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: PAVITHRA N.P - ICCS COLLEGE OF ENGINEERING AND MANAGEMENT
+- Member 2: DHAYA DILEEP - ICCS COLLEGE OF ENGINEERING AND MANAGEMENT
+- Member 3: IRFANA JASMINE - ICCS COLLEGE OF ENGINEERING AND MANAGEMENT
 
 ### Hosted Project Link
 [mention your project hosted project link here]
