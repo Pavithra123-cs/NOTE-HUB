@@ -11,24 +11,28 @@
 - Member 3: IRFANA JASMINE - ICCS COLLEGE OF ENGINEERING AND MANAGEMENT
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+file:///C:/Users/ethek/Desktop/tinkerhack/NOTE-HUB/view_notes.html
 
 ### Project Description
-[2-3 lines about what your project does]
+An app to collects notes from the internet,stores them in a database,and offers a filter/sorting option for easy access based on study classes or subjects
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+students often struggle to find quality study notes for their respective subjects and the process of gathering and organizing notes from different sources can be time consuming
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+1.The app collects study notes from trusted websites and sources
+2.Users can filter and sort notes based on subjects,study classes,and topics
+3.Simple and clean design for easy navigation and access to notes
+4.Users can save and manage notes according to their study schedule or preference
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JAVASCRIPT
+- MYSQL
 
 For Hardware:
 - [List main components]
@@ -38,7 +42,7 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+User can download and install the app from appstore or googleplay
 
 # Run
 [commands]
@@ -47,14 +51,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![c:\Users\ethek\Desktop\main.png](Add screenshot 1 here with proper name)
+*to upload and retrieve data*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![c:\Users\ethek\Desktop\upload.png](Add screenshot 2 here with proper name)
+*upload data from users*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![c:\Users\ethek\Desktop\available files.png](Add screenshot 3 here with proper name)
+*retrieve and show available data*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
